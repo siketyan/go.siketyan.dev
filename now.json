@@ -1,0 +1,18 @@
+{
+  "routes": [
+    {
+      "src": "/twitter",
+      "status": 302,
+      "headers": {
+        "Location": "https://twitter.com/siketyan"
+      }
+    },
+    {
+      "src": "/wishlist",
+      "status": 302,
+      "headers": {
+        "Location": "https://www.amazon.co.jp/hz/wishlist/ls/3FVL3FHVL6IOU"
+      }
+    }
+  ]
+}
