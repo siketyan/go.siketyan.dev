@@ -8,6 +8,13 @@
       }
     },
     {
+      "src": "/github",
+      "status": 302,
+      "headers": {
+        "Location": "https://github.com/siketyan"
+      }
+    },
+    {
       "src": "/wishlist",
       "status": 302,
       "headers": {
